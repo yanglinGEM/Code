@@ -21,10 +21,10 @@
     <ClCompile Include="12.8.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\HP\Desktop\12.7.cpp">
+    <ClCompile Include="12.7.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\HP\Desktop\12.6.cpp">
+    <ClCompile Include="12.6.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
